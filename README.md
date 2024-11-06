@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
+  <img src="https://media.tenor.com/-Y2YOay3_JoAAAAM/its-friday-dancing.gif" width="30">
   **Project 3: [MovieFanatics](https://github.com/Softo-Wetto/CAB230---Application)**
   <br>
   Frontend Movie API Website built with React JavaScript during CAB230
