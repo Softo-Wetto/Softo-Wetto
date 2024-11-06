@@ -2,7 +2,7 @@
 
 # Hi there, I'm SoftoWetto 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=blue&width=435&lines=Just+For+Fun+Developer;Open+Source+Stealer;Tech+Hater)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=blue&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Softo-Wetto&style=flat-square&color=blue) 
 [![GitHub followers](https://img.shields.io/github/followers/Softo-Wetto?label=Follow&style=social)](https://github.com/Softo-Wetto)
@@ -34,17 +34,26 @@
 
 ## ✨ Featured Projects
 
-- **[Safesync App](https://github.com/Softo-Wetto/safesync-app)**  
-  ![Safesync App](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="30">
+  **Project 1: [Safesync App](https://github.com/Softo-Wetto/safesync-app)**
+  <br>
   Safesync Project for IFB399 using React JavaScript
+</p>
 
-- **[Anime World AWS Cloud](https://github.com/Softo-Wetto/anime-world-awscloud)**  
-  ![Anime World](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
+  **Project 2: [Anime World AWS Cloud](https://github.com/Softo-Wetto/anime-world-awscloud)**
+  <br>
   AWS anime website for CAB432, using React, EC2, S3, RDS, etc.
+</p>
 
-- **[MovieFanatics](https://github.com/Softo-Wetto/CAB230---Application)**  
-  ![MovieFanatics](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
+  **Project 3: [MovieFanatics](https://github.com/Softo-Wetto/CAB230---Application)**
+  <br>
   Frontend Movie API Website built with React JavaScript during CAB230
+</p>
 
 ---
 
@@ -59,16 +68,6 @@
 
 ## 🏆 GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Softo-Wetto&theme=onedark)
-
----
-
-## 😂 A Random Dev Joke for You
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
-## 🎶 Now Playing on Spotify
-![Spotify](https://novatorem.vercel.app/api/spotify)
 
 ---
 
