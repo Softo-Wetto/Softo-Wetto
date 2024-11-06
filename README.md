@@ -1,8 +1,10 @@
-![Banner](https://i.pinimg.com/originals/2d/3d/32/2d3d32e5b05958ccd4941ac0b52a67b6.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2d/3d/32/2d3d32e5b05958ccd4941ac0b52a67b6.gif" width="100%" alt="Banner">
+</p>
 
 # Hi there, I'm SoftoWetto 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=blue&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=blue&width=435&lines=Just+For+Fun+Developer;Open+Source+Stealer;Tech+Hater)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Softo-Wetto&style=flat-square&color=blue) 
 [![GitHub followers](https://img.shields.io/github/followers/Softo-Wetto?label=Follow&style=social)](https://github.com/Softo-Wetto)
