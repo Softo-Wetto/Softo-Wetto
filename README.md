@@ -2,7 +2,7 @@
 
 # Hi there, I'm SoftoWetto 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=blue&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=blue&width=435&lines=Just+For+Fun+Developer;Open+Source+Stealer;Tech+Hater)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Softo-Wetto&style=flat-square&color=blue) 
 [![GitHub followers](https://img.shields.io/github/followers/Softo-Wetto?label=Follow&style=social)](https://github.com/Softo-Wetto)
@@ -14,7 +14,7 @@
 - 🎓 **Education**: Bachelor's in Computer Science at Queensland University of Technology (QUT)
 - 🏢 **Work**: Himitsu
 - 🌱 **Currently Learning**: TypeScript
-- 📫 **Contact Me**: https://www.linkedin.com/in/reo-o-29a289a5/
+- 📫 **Contact Me**: [LinkedIn](https://www.linkedin.com/in/reo-o-29a289a5/)
 - ⚡ **Fun Fact**: I love what I do
 
 ---
@@ -34,26 +34,17 @@
 
 ## ✨ Featured Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="30">
-  **Project 1: Safesync App https://github.com/Softo-Wetto/safesync-app
-  <br>
-  Safesync Project for IFB399 using React Javascript
-</p>
+- **[Safesync App](https://github.com/Softo-Wetto/safesync-app)**  
+  ![Safesync App](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)  
+  Safesync Project for IFB399 using React JavaScript
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
-  **Project 2: Anime World AWS Cloud https://github.com/Softo-Wetto/anime-world-awscloud
-  <br>
-  AWS anime website for Ass2 and Ass3 of unit CAB432 using React, EC2 Instance, S3, RDS, and etc.
-</p>
+- **[Anime World AWS Cloud](https://github.com/Softo-Wetto/anime-world-awscloud)**  
+  ![Anime World](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+  AWS anime website for CAB432, using React, EC2, S3, RDS, etc.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
-  **Project 3: MovieFanatics https://github.com/Softo-Wetto/CAB230---Application
-  <br>
-  Frontend Movie API Website using React JavaScript. Implemented during CAB230  
-</p>
+- **[MovieFanatics](https://github.com/Softo-Wetto/CAB230---Application)**  
+  ![MovieFanatics](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+  Frontend Movie API Website built with React JavaScript during CAB230
 
 ---
 
@@ -66,8 +57,8 @@
 
 ---
 
-## 🏆 GitHub Achievements 🏆
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+## 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Softo-Wetto&theme=onedark)
 
 ---
 
@@ -84,10 +75,12 @@
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/reo-o-29a289a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/reo-o-29a289a5" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
---- 🌟🌟🌟 ---
+---
 
 ### 🌈 Wonder of You!
 
