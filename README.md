@@ -1,4 +1,8 @@
+![Banner](https://i.pinimg.com/originals/2d/3d/32/2d3d32e5b05958ccd4941ac0b52a67b6.gif)
+
 # Hi there, I'm SoftoWetto 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=blue&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Softo-Wetto&style=flat-square&color=blue) 
 [![GitHub followers](https://img.shields.io/github/followers/Softo-Wetto?label=Follow&style=social)](https://github.com/Softo-Wetto)
@@ -7,11 +11,11 @@
 ---
 
 ## 🌟 General Information
-- 🎓 **Education**: [Bachelor's in Computer Science]
-- 🏢 **Work**: [Himitsu]
-- 🌱 **Currently Learning**: [TypeScript]
-- 📫 **Contact Me**: [(https://www.linkedin.com/in/reo-o-29a289a5/)]
-- ⚡ **Fun Fact**: [I love what I do]
+- 🎓 **Education**: Bachelor's in Computer Science at Queensland University of Technology (QUT)
+- 🏢 **Work**: Himitsu
+- 🌱 **Currently Learning**: TypeScript
+- 📫 **Contact Me**: https://www.linkedin.com/in/reo-o-29a289a5/
+- ⚡ **Fun Fact**: I love what I do
 
 ---
 
@@ -32,16 +36,23 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="30">
-  **Project 1: [Safesync App](https://github.com/Softo-Wetto/safesync-app)**
+  **Project 1: Safesync App https://github.com/Softo-Wetto/safesync-app
   <br>
   Safesync Project for IFB399 using React Javascript
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
-  **Project 2: [Anime World AWS Cloud](https://github.com/Softo-Wetto/anime-world-awscloud)**
+  **Project 2: Anime World AWS Cloud https://github.com/Softo-Wetto/anime-world-awscloud
   <br>
   AWS anime website for Ass2 and Ass3 of unit CAB432 using React, EC2 Instance, S3, RDS, and etc.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
+  **Project 3: MovieFanatics https://github.com/Softo-Wetto/CAB230---Application
+  <br>
+  Frontend Movie API Website using React JavaScript. Implemented during CAB230  
 </p>
 
 ---
@@ -55,13 +66,28 @@
 
 ---
 
+## 🏆 GitHub Achievements 🏆
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+
+---
+
+## 😂 A Random Dev Joke for You
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+## 🎶 Now Playing on Spotify
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+---
+
 ## 💬 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/reo-o-29a289a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
----
+--- 🌟🌟🌟 ---
 
 ### 🌈 Wonder of You!
 
