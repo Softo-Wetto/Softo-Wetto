@@ -14,7 +14,7 @@
 
 ## 🌟 General Information
 - 🎓 **Education**: Bachelor's in Computer Science at Queensland University of Technology (QUT)
-- 🏢 **Work**: Himitsu
+- 🏢 **Work**: Disc Jockey at Discus
 - 🌱 **Currently Learning**: TypeScript
 - 📫 **Contact Me**: [LinkedIn](https://www.linkedin.com/in/reo-o-29a289a5/)
 - ⚡ **Fun Fact**: I love what I do
