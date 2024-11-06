@@ -38,21 +38,21 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="30">
-  **Project 1: [Safesync App](https://github.com/Softo-Wetto/safesync-app)**
+  **Project 1: [Safesync App] https://github.com/Softo-Wetto/safesync-app
   <br>
   Safesync Project for IFB399 using React JavaScript
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
-  **Project 2: [Anime World AWS Cloud](https://github.com/Softo-Wetto/anime-world-awscloud)**
+  **Project 2: [Anime World AWS Cloud] https://github.com/Softo-Wetto/anime-world-awscloud
   <br>
   AWS anime website for CAB432, using React, EC2, S3, RDS, etc.
 </p>
 
 <p align="center">
   <img src="https://media.tenor.com/-Y2YOay3_JoAAAAM/its-friday-dancing.gif" width="30">
-  **Project 3: [MovieFanatics](https://github.com/Softo-Wetto/CAB230---Application)**
+  **Project 3: [MovieFanatics] https://github.com/Softo-Wetto/CAB230---Application
   <br>
   Frontend Movie API Website built with React JavaScript during CAB230
 </p>
