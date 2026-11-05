@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">SoftoWetto</title>
+  <desc id="description">A navy, violet, and cyan banner with a vinyl record, code details, and the words Developer, DJ, Builder.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10182b"/>
+      <stop offset="1" stop-color="#090d18"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset=".55" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#93a5c9" stroke-opacity=".07"/>
+    </pattern>
+    <clipPath id="rounded"><rect x="1" y="1" width="1278" height="358" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1280" height="360" fill="url(#background)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <ellipse cx="1050" cy="160" rx="300" ry="260" fill="url(#glow)"/>
+    <path d="M0 340C360 230 660 420 1280 270" fill="none" stroke="#67e8f9" stroke-opacity=".09" stroke-width="2"/>
+    <path d="M0 355C360 245 660 435 1280 285" fill="none" stroke="#a78bfa" stroke-opacity=".09"/>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2.6">
+      <text x="66" y="65" fill="#67e8f9">DEVELOPER / DJ / BUILDER</text>
+      <text x="827" y="69" fill="#a78bfa" font-size="21" letter-spacing="0">&lt;/&gt;</text>
+      <text x="1140" y="304" fill="#71809e" font-size="12" letter-spacing="1.4">SIDE A</text>
+    </g>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="60" y="157" font-size="82" font-weight="750" letter-spacing="-3.5" fill="#f3f6ff">SoftoWetto<tspan fill="#67e8f9">.</tspan></text>
+      <text x="66" y="203" font-size="23" fill="#a9b5cc">Building things for the fun of it.</text>
+      <g font-size="12" font-weight="600" letter-spacing="1.6">
+        <rect x="66" y="244" width="127" height="34" rx="17" fill="#67e8f9" fill-opacity=".08" stroke="#67e8f9" stroke-opacity=".2"/>
+        <text x="86" y="266" fill="#a5f3fc">SOFTWARE</text>
+        <rect x="205" y="244" width="99" height="34" rx="17" fill="#a78bfa" fill-opacity=".09" stroke="#a78bfa" stroke-opacity=".22"/>
+        <text x="226" y="266" fill="#ddd6fe">MUSIC</text>
+        <rect x="316" y="244" width="100" height="34" rx="17" fill="#f0abfc" fill-opacity=".08" stroke="#f0abfc" stroke-opacity=".2"/>
+        <text x="337" y="266" fill="#f5d0fe">ANIME</text>
+      </g>
+    </g>
+    <g transform="translate(1030 178)">
+      <circle r="137" fill="none" stroke="url(#accent)" stroke-opacity=".2"/>
+      <circle r="123" fill="#080c16" stroke="#434268" stroke-width="2"/>
+      <g fill="none" stroke="#c6c4e8" stroke-opacity=".09">
+        <circle r="113"/><circle r="104"/><circle r="95"/><circle r="86"/><circle r="77"/><circle r="68"/><circle r="59"/>
+      </g>
+      <path d="M-83-83A117 117 0 0 1 83-83" fill="none" stroke="#b7b3dc" stroke-opacity=".22" stroke-width="2"/>
+      <path d="M-73 73A104 104 0 0 0 73 73" fill="none" stroke="#67e8f9" stroke-opacity=".13" stroke-width="2"/>
+      <circle r="43" fill="url(#accent)"/>
+      <circle r="34" fill="none" stroke="#11172b" stroke-opacity=".2"/>
+      <circle r="7" fill="#101426"/>
+      <path d="M-20-14h12M8 14h12" stroke="#101426" stroke-opacity=".45" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(753 264)" fill="#8ba1c5">
+      <rect x="0" y="-12" width="4" height="24" rx="2" opacity=".4"/>
+      <rect x="12" y="-24" width="4" height="48" rx="2" opacity=".5"/>
+      <rect x="24" y="-17" width="4" height="34" rx="2" opacity=".6"/>
+      <rect x="36" y="-34" width="4" height="68" rx="2" fill="#67e8f9" opacity=".8"/>
+      <rect x="48" y="-21" width="4" height="42" rx="2" fill="#a78bfa" opacity=".8"/>
+      <rect x="60" y="-11" width="4" height="22" rx="2" opacity=".5"/>
+    </g>
+    <path d="M66 316H718" stroke="#34405a" stroke-opacity=".6"/>
+    <circle cx="66" cy="316" r="3" fill="#67e8f9"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="358" rx="26" fill="none" stroke="#2b3550"/>
+</svg>
