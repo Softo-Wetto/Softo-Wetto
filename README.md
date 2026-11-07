@@ -9,11 +9,11 @@
 <h1 align="center">Hey, I'm Reo 👋</h1>
 
 <p align="center">
-  <img src="./assets/roles.svg" width="500" alt="IT Technician · Developer · DJ at Discus — animated role badge" />
+  <img src="./assets/roles.svg" width="500" alt="IT Lead Technician · Developer · DJ at Discus — animated role badge" />
 </p>
 
 <p align="center">
-  <b>IT technician</b> · Computer science at <b>QUT</b> · DJ at <b>Discus</b>
+  <b>IT Lead technician</b> · Computer science at <b>QUT</b> · DJ at <b>Discus</b>
 </p>
 
 <p align="center">
