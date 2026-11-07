@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>IT Lead technician</b> · Computer science at <b>QUT</b> · DJ at <b>Discus</b>
+  <b>IT Lead Technician</b> · Computer science at <b>QUT</b> · DJ at <b>Discus</b>
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@ Have a project idea, a music recommendation, or an anime I should add to the lis
 Find me on [LinkedIn](https://www.linkedin.com/in/reo-o-29a289a5/) or explore [what I'm building on GitHub](https://github.com/Softo-Wetto?tab=repositories).
 
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="SoftoWetto — IT technician, developer, and DJ" />
+  <img src="./assets/profile-header.svg" width="100%" alt="SoftoWetto — IT Lead Technician, developer, and DJ" />
 </p>
 
 <p align="center">
