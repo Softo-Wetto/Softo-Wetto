@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="68" viewBox="0 0 560 68" role="img" aria-labelledby="title description">
+  <title id="title">IT Technician · Developer · DJ at Discus</title>
+  <desc id="description">An animated badge cycling between Reo's three roles, with a static alternative when reduced motion is preferred.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity=".55"/>
+      <stop offset=".55" stop-color="#a78bfa" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#f0abfc" stop-opacity=".4"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .static { display: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .animated { display: none; }
+      .static { display: inline; }
+    }
+  </style>
+  <rect x="1" y="1" width="558" height="66" rx="17" fill="#10182b" stroke="url(#edge)"/>
+  <path d="M20 34h15m-5-5 5 5-5 5" fill="none" stroke="#657c9f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g class="animated" font-family="Consolas, 'Courier New', monospace" font-size="23" font-weight="600" letter-spacing="2" text-anchor="middle">
+    <text x="280" y="43" fill="#a5f3fc" opacity="1">IT TECHNICIAN
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.26;.30;.96;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="280" y="43" fill="#ddd6fe" opacity="0">DEVELOPER
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.29;.33;.59;.63;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="280" y="43" fill="#f5d0fe" opacity="0">DJ AT DISCUS
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.62;.66;.92;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="static" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="600" text-anchor="middle" fill="#ddd6fe">
+    <text x="280" y="41">IT TECHNICIAN · DEVELOPER · DJ</text>
+  </g>
+  <circle cx="526" cy="34" r="4" fill="#67e8f9"/>
+</svg>

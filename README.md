@@ -1,11 +1,19 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="SoftoWetto — developer, DJ, and builder of things for fun" />
+  <img src="https://i.pinimg.com/originals/2d/3d/32/2d3d32e5b05958ccd4941ac0b52a67b6.gif" width="640" alt="Arthur Morgan enjoying a coffee in Red Dead Redemption 2" />
+</p>
+
+<p align="center">
+  <sub>First, coffee. Then, troubleshooting.</sub>
 </p>
 
 <h1 align="center">Hey, I'm Reo 👋</h1>
 
 <p align="center">
-  Computer science at <b>QUT</b> · DJ at <b>Discus</b> · Building things for the fun of it
+  <img src="./assets/roles.svg" width="500" alt="IT Technician · Developer · DJ at Discus — animated role badge" />
+</p>
+
+<p align="center">
+  <b>IT technician</b> · Computer science at <b>QUT</b> · DJ at <b>Discus</b>
 </p>
 
 <p align="center">
@@ -14,12 +22,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reo-o-29a289a5/"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Reo on LinkedIn" /></a>
-  <a href="https://github.com/Softo-Wetto?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-21262D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/reo-o-29a289a5/"><img src="https://img.shields.io/badge/Say_hello-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Reo on LinkedIn" /></a>
+  <a href="https://github.com/Softo-Wetto?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-182235?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Softo-Wetto?tab=followers"><img src="https://img.shields.io/github/followers/Softo-Wetto?label=Followers&amp;style=flat-square&amp;color=A78BFA" alt="GitHub follower count" /></a>
+  <a href="https://github.com/Softo-Wetto?tab=repositories"><img src="https://img.shields.io/github/stars/Softo-Wetto?label=Public%20stars&amp;style=flat-square&amp;color=67E8F9" alt="Stars across my public GitHub repositories" /></a>
 </p>
 
 <p align="center">
   <a href="#projects">Projects</a> ·
+  <a href="#side-quests">Side quests</a> ·
   <a href="#toolbox">Toolbox</a> ·
   <a href="#university-work">University work</a> ·
   <a href="#lets-connect">Let's connect</a>
@@ -62,6 +76,25 @@ A few things I've been building around music, anime, and useful everyday tools.
   </tr>
 </table>
 
+## Side quests
+
+<details>
+<summary><b>🎮 Pick your next side quest</b></summary>
+
+<br />
+
+| In the mood for… | Your next stop |
+| :--- | :--- |
+| 🎵 Sorting out a music library | [Open OmniDL](https://github.com/Softo-Wetto/omnidl) |
+| 🎹 Finding something to play | [Explore GiveMeMIDI](https://github.com/Softo-Wetto/givememidi) |
+| 📺 Adding one more anime to the list | [Visit ikAnimeList](https://github.com/Softo-Wetto/ikAnimeList) |
+| ☁️ Studying for a certification | [Try GetItCertified](https://github.com/Softo-Wetto/getitcertified) |
+| 💬 Talking tech, music, or games | [Find me on LinkedIn](https://www.linkedin.com/in/reo-o-29a289a5/) |
+
+**Main quest:** keep the tech working. **Side quests:** build useful apps, mix tracks, and enjoy the ride.
+
+</details>
+
 ## Toolbox
 
 <p>
@@ -94,6 +127,10 @@ A few things I've been building around music, anime, and useful everyday tools.
 
 Have a project idea, a music recommendation, or an anime I should add to the list?<br />
 Find me on [LinkedIn](https://www.linkedin.com/in/reo-o-29a289a5/) or explore [what I'm building on GitHub](https://github.com/Softo-Wetto?tab=repositories).
+
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="SoftoWetto — IT technician, developer, and DJ" />
+</p>
 
 <p align="center">
   <sub>Thanks for dropping by. Back to building something fun. ✨</sub>

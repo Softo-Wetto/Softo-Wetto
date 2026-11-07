@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
   <title id="title">SoftoWetto</title>
-  <desc id="description">A navy, violet, and cyan banner with a vinyl record, code details, and the words Developer, DJ, Builder.</desc>
+  <desc id="description">A navy, violet, and cyan banner with a vinyl record, code details, and the words IT Technician, Developer, DJ.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#10182b"/>
@@ -27,7 +27,7 @@
     <path d="M0 340C360 230 660 420 1280 270" fill="none" stroke="#67e8f9" stroke-opacity=".09" stroke-width="2"/>
     <path d="M0 355C360 245 660 435 1280 285" fill="none" stroke="#a78bfa" stroke-opacity=".09"/>
     <g font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2.6">
-      <text x="66" y="65" fill="#67e8f9">DEVELOPER / DJ / BUILDER</text>
+      <text x="66" y="65" fill="#67e8f9">IT TECHNICIAN / DEVELOPER / DJ</text>
       <text x="827" y="69" fill="#a78bfa" font-size="21" letter-spacing="0">&lt;/&gt;</text>
       <text x="1140" y="304" fill="#71809e" font-size="12" letter-spacing="1.4">SIDE A</text>
     </g>
